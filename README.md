@@ -1,2 +1,2 @@
-//io k c
+system.out.println("gg izi");
 Ejemplo de github
